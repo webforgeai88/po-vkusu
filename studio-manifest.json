@@ -1,0 +1,338 @@
+{
+  "1": {
+    "image": "assets/studio/product-1.webp",
+    "name": "Ассам Золотой",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "2": {
+    "image": "assets/studio/product-2.webp",
+    "name": "Дарджилинг Первый сбор",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "3": {
+    "image": "assets/studio/product-3.webp",
+    "name": "Цейлон Высокогорный",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "4": {
+    "image": "assets/studio/product-4.webp",
+    "name": "Кимун",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "5": {
+    "image": "assets/studio/product-5.webp",
+    "name": "Дянь Хун",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "6": {
+    "image": "assets/studio/product-6.webp",
+    "name": "Эрл Грей",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "7": {
+    "image": "assets/studio/product-7.webp",
+    "name": "Сенча",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "8": {
+    "image": "assets/studio/product-8.webp",
+    "name": "Лун Цзин",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "9": {
+    "image": "assets/studio/product-9.webp",
+    "name": "Ганпаудер",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "10": {
+    "image": "assets/studio/product-10.webp",
+    "name": "Жасминовая жемчужина",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "11": {
+    "image": "assets/studio/product-11.webp",
+    "name": "Гёкуро",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "12": {
+    "image": "assets/studio/product-12.webp",
+    "name": "Бай Му Дань",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "13": {
+    "image": "assets/studio/product-13.webp",
+    "name": "Серебряные иглы",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "14": {
+    "image": "assets/studio/product-14.webp",
+    "name": "Те Гуань Инь",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "15": {
+    "image": "assets/studio/product-15.webp",
+    "name": "Да Хун Пао",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "16": {
+    "image": "assets/studio/product-16.webp",
+    "name": "Габа Алишань",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "17": {
+    "image": "assets/studio/product-17.webp",
+    "name": "Дун Дин",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "18": {
+    "image": "assets/studio/product-18.webp",
+    "name": "Шу Пуэр Гун Тин",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "19": {
+    "image": "assets/studio/product-19.webp",
+    "name": "Шэн Пуэр",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "20": {
+    "image": "assets/studio/product-20.webp",
+    "name": "Ройбуш Ваниль",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "21": {
+    "image": "assets/studio/product-21.webp",
+    "name": "Мята и мелисса",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "22": {
+    "image": "assets/studio/product-22.webp",
+    "name": "Ромашковый луг",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "23": {
+    "image": "assets/studio/product-23.webp",
+    "name": "Ягодный сад",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "24": {
+    "image": "assets/studio/product-24.webp",
+    "name": "Облепиха и апельсин",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "25": {
+    "image": "assets/studio/product-25.webp",
+    "name": "Бразилия Серрадо",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "26": {
+    "image": "assets/studio/product-26.webp",
+    "name": "Эфиопия Иргачеффе",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "27": {
+    "image": "assets/studio/product-27.webp",
+    "name": "Колумбия Уила",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "28": {
+    "image": "assets/studio/product-28.webp",
+    "name": "Кения Кириньяга",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "29": {
+    "image": "assets/studio/product-29.webp",
+    "name": "Гватемала Антигуа",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "30": {
+    "image": "assets/studio/product-30.webp",
+    "name": "Коста-Рика Тарразу",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "31": {
+    "image": "assets/studio/product-31.webp",
+    "name": "Перу Кахамарка",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "32": {
+    "image": "assets/studio/product-32.webp",
+    "name": "Индонезия Суматра",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "33": {
+    "image": "assets/studio/product-33.webp",
+    "name": "Руанда Ньямагабе",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "34": {
+    "image": "assets/studio/product-34.webp",
+    "name": "Эфиопия Сидамо",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "35": {
+    "image": "assets/studio/product-35.webp",
+    "name": "Бразилия Можиана",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "36": {
+    "image": "assets/studio/product-36.webp",
+    "name": "Колумбия Декаф",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "37": {
+    "image": "assets/studio/product-37.webp",
+    "name": "Эспрессо Домашний",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "38": {
+    "image": "assets/studio/product-38.webp",
+    "name": "Утренний фильтр",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "39": {
+    "image": "assets/studio/product-39.webp",
+    "name": "Гондурас Маркала",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "40": {
+    "image": "assets/studio/product-40.webp",
+    "name": "Мексика Чьяпас",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "41": {
+    "image": "assets/studio/product-41.webp",
+    "name": "Никарагуа Хинотега",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "42": {
+    "image": "assets/studio/product-42.webp",
+    "name": "Бурунди Каянза",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "43": {
+    "image": "assets/studio/product-43.webp",
+    "name": "Знакомство с чаем",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "44": {
+    "image": "assets/studio/product-44.webp",
+    "name": "Кофейное путешествие",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "45": {
+    "image": "assets/studio/product-45.webp",
+    "name": "Вечер без кофеина",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "46": {
+    "image": "assets/studio/product-46.webp",
+    "name": "Шоколадное настроение",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "47": {
+    "image": "assets/studio/product-47.webp",
+    "name": "Цветочная коллекция",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  },
+  "48": {
+    "image": "assets/studio/product-48.webp",
+    "name": "Чай и кофе на двоих",
+    "generator": "Built-in imagegen",
+    "kind": "serving-illustration",
+    "description": "Постановочная ИИ-иллюстрация сервировки. Не фотография конкретного товара или упаковки."
+  }
+}

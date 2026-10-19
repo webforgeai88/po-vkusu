@@ -1,0 +1,492 @@
+{
+  "1": {
+    "image": "assets/product-1.jpg",
+    "title": "File:Assam black tea.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Assam_black_tea.jpg",
+    "author": "Paweł Więcek (evilcoven)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "description": "Assam tea",
+    "query": "Assam black tea"
+  },
+  "2": {
+    "image": "assets/product-2.jpg",
+    "title": "File:Darjeeling-tea-first-flush-leaf-dry.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Darjeeling-tea-first-flush-leaf-dry.jpg",
+    "author": "David J. Fred",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "description": "Darjeeling tea, first flush 2007, Risheehat Estate, SFTGFOP1 CH/FL, dry leaf",
+    "query": "Darjeeling tea dry leaves"
+  },
+  "3": {
+    "image": "assets/product-3.jpg",
+    "title": "File:Ceylon tea Leafs.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceylon_tea_Leafs.JPG",
+    "author": "HeroidShehu",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Dried Ceylon tea leafs.",
+    "query": "Ceylon tea dry leaves"
+  },
+  "4": {
+    "image": "assets/product-4.jpg",
+    "title": "File:Keemun FOP (1).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Keemun_FOP_(1).JPG",
+    "author": "Whiteness",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Keemun black tea from Anhui province, China. This is FOP category Keemun, so the proportion of buds is quite low compared to higher grade keemuns. Note the broken, short leaves that yield stronger liquor. This kind of Keemun is the one most commonly used in blends.",
+    "query": "Keemun tea leaves"
+  },
+  "5": {
+    "image": "assets/product-5.jpg",
+    "title": "File:Dian hong gongfu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dian_hong_gongfu.jpg",
+    "author": "Paweł Więcek (evilcoven)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "description": "Dian hong gongfu (Yunnan gold) tea",
+    "query": "Dian hong tea leaves"
+  },
+  "6": {
+    "image": "assets/product-6.jpg",
+    "title": "File:Earl Grey FBOP-Wilson Ceylon Teas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Earl_Grey_FBOP-Wilson_Ceylon_Teas.jpg",
+    "author": "WJ Houtman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Earl Grey FBOP-Wilson Ceylon Teas - a award winning Earl Grey tea from Sri Lanka (Ceylon). camera: Canon EOS 300D camera",
+    "query": "Earl Grey tea leaves"
+  },
+  "7": {
+    "image": "assets/product-7.jpg",
+    "title": "File:2017 Kagoshima sencha.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Kagoshima_sencha.jpg",
+    "author": "Difference engine",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Deep steamed sencha from the first harvest of 2017. Grown in Kagoshima, this tea is made using the Sae Midori variety of the tea plant, which is a cross between Yabukita and Asatsuyu.",
+    "query": "Sencha tea leaves"
+  },
+  "8": {
+    "image": "assets/product-8.jpg",
+    "title": "File:Longjing tea 12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Longjing_tea_12.jpg",
+    "author": "Jessie csz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "people are cooling and drying Longjing tea",
+    "query": "Longjing tea leaves"
+  },
+  "9": {
+    "image": "assets/product-9.jpg",
+    "title": "File:Gunpowder tea in pile.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gunpowder_tea_in_pile.jpg",
+    "author": "Self-photographed",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gunpowder_tea_in_pile.jpg",
+    "description": "A pile of Chinese Gunpowder tea. The little pills are about half a centimetre long."
+  },
+  "10": {
+    "image": "assets/product-10.jpg",
+    "title": "File:Fujian Zhangzhou jasmine dragon pearls.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fujian_Zhangzhou_jasmine_dragon_pearls.jpg",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Fujian Zhangzhou jasmine dragon pearls",
+    "query": "Jasmine pearl tea"
+  },
+  "11": {
+    "image": "assets/product-11.jpg",
+    "title": "File:Gyokuro-after-steeping.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gyokuro-after-steeping.jpg",
+    "author": "Washing Machine",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "A kyusu teapot with the leaves remaining from after the first steep of gyokuro tea. This tea was steeped at 60° Celsius for 90 seconds",
+    "query": "Gyokuro leaves"
+  },
+  "12": {
+    "image": "assets/product-12.jpg",
+    "title": "File:Frisch aufgebrühter weißer Tee Pai Mu Tan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Frisch_aufgebr%C3%BChter_wei%C3%9Fer_Tee_Pai_Mu_Tan.jpg",
+    "author": "soultea.de /André Helbig",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "White tea in Pot and glass",
+    "query": "Bai Mudan tea"
+  },
+  "13": {
+    "image": "assets/product-13.jpg",
+    "title": "File:2010 FirstFlush Yunnan Baihao Yinzhen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2010_FirstFlush_Yunnan_Baihao_Yinzhen.jpg",
+    "author": "Kaminix",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "A 2010 first flush Bai Hao Yinzhen from Yunnan. Purchased at Yunnan Sourcing LLC in 2010.",
+    "query": "Baihao Yinzhen tea"
+  },
+  "14": {
+    "image": "assets/product-14.jpg",
+    "title": "File:Fulles de Tieguanyin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fulles_de_Tieguanyin.jpg",
+    "author": "Francesc Fort",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Fulles de té Tieguanyin.",
+    "query": "Tieguanyin leaves"
+  },
+  "15": {
+    "image": "assets/product-15.jpg",
+    "title": "File:Da Hong Pao Oolong tea leaf close.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf_close.jpg",
+    "author": "Hemanshu",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "I am the author, this is a picture of tea leaves I took.",
+    "query": "Da Hong Pao tea"
+  },
+  "16": {
+    "image": "assets/product-16.jpg",
+    "title": "File:GABA tea 04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:GABA_tea_04.jpg",
+    "author": "Pannet",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "GABA tea"
+  },
+  "17": {
+    "image": "assets/product-17.jpg",
+    "title": "File:Dong Ding tea.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dong_Ding_tea.jpg",
+    "author": "Waliy sherpa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Loose Dong Ding tea from Nantou, Taiwan.",
+    "query": "Dong Ding tea"
+  },
+  "18": {
+    "image": "assets/product-18.jpg",
+    "title": "File:Yunnan Sourcing - 15 Years Aged Melon Ripe Pu-Erh Tea Tuo - WikiTea.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yunnan_Sourcing_-_15_Years_Aged_Melon_Ripe_Pu-Erh_Tea_Tuo_-_WikiTea.jpg",
+    "author": "Ash Crow",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Pu-erh tea ball cake"
+  },
+  "19": {
+    "image": "assets/product-19.jpg",
+    "title": "File:Raw Pu erh.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Raw_Pu_erh.jpg",
+    "author": "Qirille",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "raw sheng pu erh tea Bing"
+  },
+  "20": {
+    "image": "assets/product-20.jpg",
+    "title": "File:Rooibos tea in a glass with dry rooibos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rooibos_tea_in_a_glass_with_dry_rooibos.jpg",
+    "author": "Żółwiciel",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Rooibos tea in a glass with dry rooibos leaves",
+    "query": "Rooibos dry tea"
+  },
+  "21": {
+    "image": "assets/product-21.jpg",
+    "title": "File:Menthae piperitae folium 008182.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Menthae_piperitae_folium_008182.jpg",
+    "author": "Rillke",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "description": "dried Peppermint (Mentha × piperita, also known as M. balsamea Willd.) leaves",
+    "query": "Peppermint dried leaves"
+  },
+  "22": {
+    "image": "assets/product-22.jpg",
+    "title": "File:Loose chamomile tea.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Loose_chamomile_tea.jpg",
+    "author": "Ehedaya ( talk )Ehedaya",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "Loose chamomile tea with dried bits of apple and cinnamon",
+    "query": "Chamomile dried tea"
+  },
+  "23": {
+    "image": "assets/product-23.jpg",
+    "title": "File:Hibiscus Rose Hip and Tropical Fruit Tisane.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_Rose_Hip_and_Tropical_Fruit_Tisane.jpg",
+    "author": "Kanko* from Nagasaki, Japan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "hibiscus,rose hip, and tropical fruit：）",
+    "query": "Hibiscus fruit tea"
+  },
+  "24": {
+    "image": "assets/product-24.jpg",
+    "title": "File:Wild Sea Buckthorn Berries - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wild_Sea_Buckthorn_Berries_-_panoramio.jpg",
+    "author": "Art Anderson",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Wild Sea Buckthorn Berries"
+  },
+  "25": {
+    "image": "assets/product-25.png",
+    "title": "File:Roasted coffee beans in white bowl.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans_in_white_bowl.png",
+    "author": "Alorin",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Roasted coffee beans in white bowl"
+  },
+  "26": {
+    "image": "assets/product-26.jpg",
+    "title": "File:Coffee Beans (Ethiopia).JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_Beans_(Ethiopia).JPG",
+    "author": "Maurice Chédel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Freshly roasted coffee beans, Mekele, Tigray, Ethiopia.",
+    "query": "Ethiopia coffee beans roasted"
+  },
+  "27": {
+    "image": "assets/product-27.jpg",
+    "title": "File:Roasted arabica coffee beans Minca.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_arabica_coffee_beans_Minca.jpg",
+    "author": "Roger Burger",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Roasted coffee beans from Colombia.",
+    "query": "Colombia coffee roasted beans"
+  },
+  "28": {
+    "image": "assets/product-28.jpg",
+    "title": "File:Roasted coffee beans.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
+    "author": "MarkSweep",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "Roasted coffee beans",
+    "query": "Kenya roasted coffee beans"
+  },
+  "29": {
+    "image": "assets/product-29.jpg",
+    "title": "File:Roasted coffee beans on the surface. 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans_on_the_surface._01.jpg",
+    "author": "A S M Jobaer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "This is the photo of roasted coffee beans. These coffee beans are roasted in a factory in Bangladesh."
+  },
+  "30": {
+    "image": "assets/product-30.jpg",
+    "title": "File:Roasted Coffee Beans in Hermetic Jar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_Coffee_Beans_in_Hermetic_Jar.jpg",
+    "author": "Pierre Camateros",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Roasted coffee beans in hermtically sealable jar with spoon.",
+    "query": "Costa Rica coffee beans roasted"
+  },
+  "31": {
+    "image": "assets/product-31.jpg",
+    "title": "File:Coffee Beans macro 1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_Beans_macro_1.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Macro photo of Maragogype coffee beans from Nicaragua"
+  },
+  "32": {
+    "image": "assets/product-32.jpg",
+    "title": "File:Dark roasted espresso blend coffee beans 2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dark_roasted_espresso_blend_coffee_beans_2.jpg",
+    "author": "Ragesoss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "A pile of coffee beans: Trader Joe's Organic Five Country Espresso Blend, a dark roast made of coffee from El Salvador, Guatemala, Mexico, Peru, and Sumatra."
+  },
+  "33": {
+    "image": "assets/product-33.jpg",
+    "title": "File:Rwandan-Coffee-Beans.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rwandan-Coffee-Beans.jpg",
+    "author": "Evan-Amos",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Rwandan dark roast coffee beans.",
+    "query": "Rwanda coffee beans roasted"
+  },
+  "34": {
+    "image": "assets/product-34.jpg",
+    "title": "File:Coffee beans photo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_beans_photo.jpg",
+    "author": "Jon Sullivan",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Coffee_beans_photo.jpg",
+    "description": "Image title: Coffee beans photo Image from Public domain images website, http://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/seeds-public-domain-images-pictures/coffee-beans-photo.jpg.html"
+  },
+  "35": {
+    "image": "assets/product-35.jpg",
+    "title": "File:Medium roasted Arabica coffee beans.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Medium_roasted_Arabica_coffee_beans.jpg",
+    "author": "Ragesoss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "A pile of medium roasted Arabica coffee beans: Trader Joe's Smooth &amp; Mellow Blend",
+    "query": "Coffee beans medium roast"
+  },
+  "36": {
+    "image": "assets/product-36.jpg",
+    "title": "File:Coffee beans - ziarna kawy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_beans_-_ziarna_kawy.jpg",
+    "author": "Alina Zienowicz ( Ala z ), e-mail",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Kawa - ziarna"
+  },
+  "37": {
+    "image": "assets/product-37.jpg",
+    "title": "File:Dark roasted coffee beans.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dark_roasted_coffee_beans.jpg",
+    "author": "Jon Sullivan",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "Image title: Dark roasted coffee beans Image from Public domain images website, https://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/seeds-public-domain-images-pictures/dark-roasted-coffee-beans.jpg.html",
+    "query": "Dark roasted coffee beans"
+  },
+  "38": {
+    "image": "assets/product-38.jpg",
+    "title": "File:Coffee Beans macro 4.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_Beans_macro_4.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Macro photo of Maragogype coffee beans from Nicaragua"
+  },
+  "39": {
+    "image": "assets/product-39.jpg",
+    "title": "File:Coffee beans spilling out of a cup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_beans_spilling_out_of_a_cup.jpg",
+    "author": "Christoph",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Coffee cup with beans"
+  },
+  "40": {
+    "image": "assets/product-40.jpg",
+    "title": "File:Roasted coffee beans on the surface. 02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans_on_the_surface._02.jpg",
+    "author": "A S M Jobaer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "This is the photo of roasted coffee beans. These coffee beans are roasted by one of my uncles factory."
+  },
+  "41": {
+    "image": "assets/product-41.jpg",
+    "title": "File:Coffee Beans macro 5.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coffee_Beans_macro_5.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Macro photo of Maragogype coffee beans from Nicaragua",
+    "query": "Nicaragua coffee beans"
+  },
+  "42": {
+    "image": "assets/product-42.jpg",
+    "title": "File:Roasted Coffee Beans Texture.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_Coffee_Beans_Texture.jpg",
+    "author": "freestock.ca",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Textured close-up of roasted coffee seeds.",
+    "query": "Burundi coffee beans"
+  },
+  "43": {
+    "image": "assets/product-43.svg",
+    "title": "Знакомство с чаем",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      1,
+      7,
+      14
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  },
+  "44": {
+    "image": "assets/product-44.svg",
+    "title": "Кофейное путешествие",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      25,
+      27,
+      26
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  },
+  "45": {
+    "image": "assets/product-45.svg",
+    "title": "Вечер без кофеина",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      20,
+      21,
+      22
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  },
+  "46": {
+    "image": "assets/product-46.svg",
+    "title": "Шоколадное настроение",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      25,
+      29,
+      37
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  },
+  "47": {
+    "image": "assets/product-47.svg",
+    "title": "Цветочная коллекция",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      2,
+      10,
+      12
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  },
+  "48": {
+    "image": "assets/product-48.svg",
+    "title": "Чай и кофе на двоих",
+    "source": "credits.html",
+    "author": "Композиция из фотографий состава набора",
+    "license": "Лицензии исходных фотографий",
+    "licenseUrl": "credits.html",
+    "components": [
+      3,
+      1,
+      25
+    ],
+    "description": "Коллаж из фотографий соответствующих сортов. Не фотография упаковки."
+  }
+}
