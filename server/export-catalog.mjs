@@ -1,6 +1,6 @@
 // Достаёт каталог магазина из dist/app.js (строки с товарами) и пишет catalog.json для сервера консультанта.
 import { readFileSync, writeFileSync } from 'node:fs';
-const src = readFileSync(new URL('../codex/po-vkusu/dist/app.js', import.meta.url), 'utf8').split('\n');
+const src = readFileSync(new URL('../dist/app.js', import.meta.url), 'utf8').split('\n');
 const start = src.findIndex((l) => l.startsWith('const teaRows'));
 const end = src.findIndex((l) => l.startsWith('const baseProducts'));
 const head = src.slice(1, 6).join('\n'); // $, esc, photo, images
